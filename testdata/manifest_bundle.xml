@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Bundle xmlns="http://schemas.microsoft.com/appx/2013/bundle" SchemaVersion="5.0" xmlns:b4="http://schemas.microsoft.com/appx/2018/bundle" xmlns:b5="http://schemas.microsoft.com/appx/2019/bundle" IgnorableNamespaces="b4 b5">
+	<Identity Name="SomeGame" Publisher="CN=A68B71A2-D31D-464B-859A-CCB951AA6E69" Version="1.5.54.2"/>
+	<Packages>
+		<Package Type="resource" Version="1.5.54.2" ResourceId="split.scale-100" FileName="SomeGame_1.5.54.2_scale-100.msix" Offset="392" Size="576406">
+			<Resources>
+				<Resource Scale="100"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Desktop" MinVersion="10.0.17763.0" MaxVersionTested="10.0.17763.0"/>
+			</b4:Dependencies>
+		</Package>
+    </Packages>
+</Bundle>

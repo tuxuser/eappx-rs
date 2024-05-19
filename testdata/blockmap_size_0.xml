@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<b2:BlockMap xmlns="http://schemas.microsoft.com/appx/2010/blockmap" xmlns:b2="http://schemas.microsoft.com/appx/2015/blockmap" HashMethod="http://www.w3.org/2001/04/xmlenc#sha256">
+    <b2:File Name="AppxManifest.xml" Id="0" Size="3337" Encrypted="false">
+        <Block Hash="KNW6qWLAKsPZKbVF0DQc4gxxL0eAsCtFxUa+stWfKB8=" Size="1236"/>
+        <b2:FileHash Hash="KNW6qWLAKsPZKbVF0DQc4gxxL0eAsCtFxUa+stWfKB8="/>
+    </b2:File>
+    <b2:File Name="something.bin" Id="1" Size="0" Encrypted="false"/>
+</b2:BlockMap>

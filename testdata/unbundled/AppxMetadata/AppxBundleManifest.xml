@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Bundle SchemaVersion="5.0" IgnorableNamespaces="b4 b5" xmlns="http://schemas.microsoft.com/appx/2013/bundle" xmlns:b4="http://schemas.microsoft.com/appx/2018/bundle" xmlns:b5="http://schemas.microsoft.com/appx/2019/bundle">
+	<Identity Name="8b18b0ca-7bac-4263-8be8-9a7a1292c90d" Publisher="CN=dev" Version="1.0.3.0"/>
+	<Packages>
+		<Package Type="application" Version="1.0.3.0" Architecture="x64" FileName="TestApp_1.0.3.0_x64.msix" Offset="54" Size="407284">
+			<Resources>
+				<Resource Language="EN-US"/>
+				<Resource Scale="200"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.22621.0"/>
+			</b4:Dependencies>
+		</Package>
+	</Packages>
+</Bundle>
